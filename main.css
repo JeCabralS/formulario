@@ -25,10 +25,10 @@ body {
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  background-image: url("./e.jpg");
+  background-image: url("./banner.jpg");
   background-repeat: no-repeat;
-  background-size: cover;
-  background-position-x: center;
+  background-size: contain;
+
 }
 
 .title h2 {
@@ -38,7 +38,7 @@ body {
 }
 
 label {
-  font-size: 1.125rem;
+  font-size: 1.225rem;
   font-weight: 900;
 }
 
